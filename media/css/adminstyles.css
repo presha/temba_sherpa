@@ -1,0 +1,239 @@
+body {
+    font-family: "Century Gothic", Verdana, Arial, Sans-Serif;
+    font-size: 62.5%;
+    background: #eee;
+    position: relative;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    behavior: url("csshover3.htc"); 
+}
+
+
+
+
+h2 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-style: italic;
+    font-size:36px;
+    position: relative;
+    margin: 0 auto;
+    width: 950px;
+    top: 20px;
+}
+
+#content {
+    position: relative;
+    margin: 0 auto;
+    width: 950px;
+    top: 80px;
+    height: 100px;
+}
+
+.logout{
+    color:#eee;
+   /* background-color: black;*/
+    width:50px;
+    float: right;
+    padding-right:0px ;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+/* Vertical Navigation */
+#vertical-navigation { 
+    list-style: none; 
+    margin: 0; 
+    padding: 0;
+    font-size: 1.2em;
+    float: right;
+    position: relative}
+
+
+/* CSS for each Parent Item */
+#vertical-navigation li {float: left; position: relative;}
+
+#vertical-navigation li a
+{
+    float: left;
+    display: block;
+    padding: 4px;
+    text-decoration: none;
+    color: #666;
+    text-transform: uppercase;
+    margin-right: 10px;
+}
+
+/* 
+Change background color and font color 
+of parent items when mouse hover 
+*/
+#vertical-navigation li:hover a,
+#vertical-navigation li a:hover
+{
+    background: #999;
+    color: #fff;    
+}
+
+
+
+
+/* 
+Applie to group of Child Items
+Each Child Item will be invisible by default
+*/
+#vertical-navigation ul {display: none;}
+
+/* Each Child Item will be visible if mouse hover */
+#vertical-navigation li:hover ul {display: block;}
+
+#vertical-navigation ul
+{
+    float: none;
+    position: absolute;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    top: 1.8em;
+    left: 0;
+}
+
+#vertical-navigation ul li
+{
+    float: none;
+    clear: none;
+    margin: 0;
+    padding: 0;
+    width: 100px;
+    color: #999;
+}
+
+
+/* 
+Reset and re style 
+link of each child item
+*/
+#vertical-navigation li:hover ul li a,
+#vertical-navigation ul li a
+{
+    line-height: 200%;
+    display: block;
+    padding: 0 6px 0 0;
+    float: none;
+    text-transform: lowercase;
+    color: #999;
+    background: none;
+}
+
+#vertical-navigation li:hover ul li a:hover,
+#vertical-navigation ul li a:hover
+{
+    background: none;
+    color: #000;
+}
+
+/* hr , seperator */
+hr{
+    width:960px;
+    margin: 0px auto 0px auto;
+}
+
+
+.main_body{
+    margin:0px auto 0px auto;
+    width: 940px;
+    margin-top: 67px;
+}
+.success_body{
+   margin-top:70px;
+}
+.form_changePassword{
+    font-family: monospace;
+    font-size: 14px;
+    background-color: #b2b4b6; 
+    margin-top:50px;
+    float: right;
+    width: 300px;
+    border-style: outset;
+    height: 240px;
+    
+    
+}
+.notice{
+    font-family: cursive;
+    
+}   
+                  
+.form_changePassword input{  
+    margin-right: 5px;
+    line-height: 1em;
+    float: right;
+}
+
+.rightside{
+    margin-right: 5px;
+    margin-left: 5px;
+    float: left;
+}
+.leftside{
+    margin-right: 5px;
+    margin-left: 5px;
+    float: right;
+}
+
+.tableBox{
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    margin-left: 10px;
+
+    
+    font-size: 14px;
+    border-collapse: collapse;
+    background-color: white;
+    
+}
+
+.row1{
+    background-color: #e6e6e6;
+}
+
+.row2{
+    background-color: #fbfbfb;
+}
+
+.backwhite{
+    background-color: white;
+}
+
+.tableBox td{
+    font-family: Trebuchet MS;
+    min-height: 30px;
+    empty-cells: hide;
+    padding: auto 5px;
+    font-size: 14px;
+    vertical-align: top;
+    color: 
+}
+
+ .mid{
+    vertical-align:text-top;
+ }
+
+ .paginate_enabled_next, .paginate_disabled_next{
+    float: right;
+ }
+ .paginate_disabled_previous{
+    float: left;
+ }
+.image_gallery{
+    float: left;
+    width:940px;
+}
+.image_gallery ul li {
+float: left;
+padding: 0 10px 10px 10px;
+list-style: none outside none;
+}
+label{
+    font-weight: bold;
+}

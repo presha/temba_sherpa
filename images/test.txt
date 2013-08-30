@@ -1,0 +1,3 @@
+modifier: public, privAte
+
+logical organization of a class is namespace
