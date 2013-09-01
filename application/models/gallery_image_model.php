@@ -26,7 +26,7 @@ class Gallery_image_model extends CI_Model {
 				return $query->result_array();
 			}
 		$query=$this->db->get_where('tbl_image',array('gallery_id'=>$param));
-		return $query->row_array();
+		return $query->result_array();
 	}
 
 	public function view_gallery($param){

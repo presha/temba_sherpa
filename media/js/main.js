@@ -11,7 +11,7 @@ var refresh = function(){
    	// scroll about me
    	$("#scroll-about").mCustomScrollbar({
    		scrollInertia:600,
-   		autoHideScrollbar:false,
+   		autoHideScrollbar:true,
    		autoDraggerLength:false,
    		scrollButtons:{enable:true}
    	});   	

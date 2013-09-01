@@ -22,13 +22,32 @@ class UI extends CI_Controller {
 	    {
 	     	session_start();
             parent::__construct();  
+            $this->load->model('gallery_model');
+            $this->load->model('gallery_image_model');
 	    }
 	public function index()
 	{
 		
 		$this->load->helper('url');
+		$data['main_content']='home_ui';
 		$this->load->view('home');
 
+	}
+
+	public function resume()
+	{
+		$this->load->helper('url');
+		$this->load->view('resume');
+	}
+
+	public function gallery(){
+		$data['gallery_data']=$this->gallery_model->get_image();
+		$this->load->view('gallery',$data);
+	}
+
+	public function gallery_image($param){
+		$data['gallery_images']=$this->gallery_image_model->view_gallery($param);	
+		$this->load->view('gallery_image',$data);
 	}
 
 	public function add_comment(){
@@ -56,6 +75,6 @@ class UI extends CI_Controller {
 		else{
 			show_error($this->email->print_debugger());
 		}
-		$this->load->view('home');
+		redirect('ui/index');
 	}
 }
