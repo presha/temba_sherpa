@@ -24,6 +24,7 @@ class UI extends CI_Controller {
             parent::__construct();  
             $this->load->model('gallery_model');
             $this->load->model('gallery_image_model');
+            $this->load->model('achievement_model');
 	    }
 	public function index()
 	{
@@ -48,6 +49,16 @@ class UI extends CI_Controller {
 	public function gallery_image($param){
 		$data['gallery_images']=$this->gallery_image_model->view_gallery($param);	
 		$this->load->view('gallery_image',$data);
+	}
+
+	public function achievement(){
+		$data['achievement_data']=$this->achievement_model->get_achievement();
+		$this->load->view('achievement',$data);
+	}
+
+	public function achievement_desc($param){
+		$data['achievement_data']=$this->achievement_model->get_achievement($param);
+		$this->load->view('achievement_desc',$data);
 	}
 
 	public function add_comment(){

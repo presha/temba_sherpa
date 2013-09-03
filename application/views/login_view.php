@@ -34,7 +34,7 @@
   <p>
     <?php echo form_submit('submit','Login');?>
   </p>
-  <?pho echo form_close(); ?>
+  </form  >
   <div class="error"><?php echo validation_errors(); ?></div>
 
 </body>

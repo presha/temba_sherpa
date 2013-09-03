@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Generation Time: Aug 29, 2013 at 03:41 AM
+-- Generation Time: Sep 01, 2013 at 09:59 AM
 -- Server version: 5.5.24-log
 -- PHP Version: 5.3.13
 
@@ -79,17 +79,17 @@ CREATE TABLE IF NOT EXISTS `tbl_gallery` (
   `gallery_desc` varchar(120) NOT NULL,
   `enable_disable` int(1) NOT NULL,
   PRIMARY KEY (`gallery_id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=9 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=13 ;
 
 --
 -- Dumping data for table `tbl_gallery`
 --
 
 INSERT INTO `tbl_gallery` (`gallery_id`, `gallery_img_path`, `gallery_desc`, `enable_disable`) VALUES
-(1, 'images2.jpg', 'album1', 1),
-(2, 'images1.jpg', 'album2', 1),
-(7, 'Henna_Design_1.jpg', 'henna', 1),
-(8, '4th.png', 'test', 1);
+(9, 'picture1.jpg', 'temba1', 1),
+(10, 'picture2.jpg', 'temba2', 1),
+(11, 'picture3.jpg', 'temba3', 1),
+(12, '1.jpg', 'temba4', 1);
 
 -- --------------------------------------------------------
 
@@ -104,7 +104,7 @@ CREATE TABLE IF NOT EXISTS `tbl_image` (
   `image_caption` varchar(80) NOT NULL,
   `enable_disable` int(1) NOT NULL,
   PRIMARY KEY (`image_id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=7 ;
 
 --
 -- Dumping data for table `tbl_image`
@@ -112,7 +112,10 @@ CREATE TABLE IF NOT EXISTS `tbl_image` (
 
 INSERT INTO `tbl_image` (`image_id`, `gallery_id`, `image_path`, `image_caption`, `enable_disable`) VALUES
 (1, 7, '969605_10151398765537477_961404517_n.jpg', 'me', 0),
-(3, 7, 'henna-designs-for-hands.jpg', 'mehendi', 0);
+(3, 7, 'henna-designs-for-hands.jpg', 'mehendi', 0),
+(4, 9, '564735_10152630755945123_805423769_n.jpg', 'temba1_1', 0),
+(5, 9, '975072_10152898650975123_222792048_n.jpg', 'temba1_2', 0),
+(6, 9, '11.jpg', 'temba1_3', 0);
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;

@@ -87,75 +87,162 @@
       </nav>
             
         <div id="content">
-          <div id="resume" class="clearfix" >
-            <div class="box-center clearfix" >
-              <h4><b>My childhood</b></h4>
-               <p>I was born on May 9,1985 son of chhauwa  sherpa(father) & Lakpa Diki Sherpa(Mother) at Gaurishankar – 5, Tashinam, Dolakha, Nepal. All my memories of my childhood are gathered from Dolakha. I belive on buddism from my childhood, So i feel porud to call buddist. </p>
-                <h4>My childhood</h4>
-               <p>I was born on May 9,1985 son of chhauwa  sherpa(father) & Lakpa Diki Sherpa(Mother) at Gaurishankar – 5, Tashinam, Dolakha, Nepal. All my memories of my childhood are gathered from Dolakha. I belive on buddism from my childhood, So i feel porud to call buddist. </p>
+                  <div id="resume" class="clearfix" >
+                    <div class="box-center clearfix" >
+                      <table class="table">
+                        <tr>
+                          <td colspan="2"><h4>My childhood</h4>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td colspan="2">
+                            I was born on May 9,1985 son of chhauwa  sherpa(father) & Lakpa Diki Sherpa(Mother) at Gaurishankar – 5, Tashinam, Dolakha, Nepal. All my memories of my childhood are gathered from Dolakha. I belive on buddism from my childhood, So i feel porud to call buddist.   
+                          </td>
+                        </tr>
+                        <tr>
+                          <td colspan="2">
+                            <hr />
+                          </td>
+                        </tr>
+                        <tr>
+                          <td colspan="2">
+                            <h4>Education</h4>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td colspan="2">
+                            <p>Education is the perception how anybody thinks. I completed a Bachelor in Bussiness Administration (BBA) degree at <a href="http://en.whu.edu.cn/" target="_blank" title="Wuhan University">Wuhan University</a>, China. Language is a way of communication, as I stayed in China for my education, I learned chinese language for a year.</p>
 
-                <h4>My childhood</h4>
-               <p>I was born on May 9,1985 son of chhauwa  sherpa(father) & Lakpa Diki Sherpa(Mother) at Gaurishankar – 5, Tashinam, Dolakha, Nepal. All my memories of my childhood are gathered from Dolakha. I belive on buddism from my childhood, So i feel porud to call buddist. </p>
+                            </td>
+                        </tr>
+                        <tr>
+                          <td colspan="2">
+                            <hr />
+                          </td>
+                        </tr>
+                        <tr>
+                          <td colspan="2">
+                            <h4>Working Experience</h4>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td colspan="2">
+                            <table class="table">
+                              <tr>
+                                <td>2003-05</td>
+                                <td ><p style="margin-left:10px;">PR Executive, Leo Club of Kathmandu, Himalayas Patan Sponsored by Lions Club of Kathmandu, Himalayas Patan, District 325 ‘B’</p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td>2002-04</td>
+                                <td ><p style="margin-left:10px;">President, Nodan Club, Kathmandu, Nepal</p>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <tr>
+                          <td colspan="2">
+                            <hr />
+                          </td>
+                        </tr>
+                          <td colspan="2">
+                          <h4>Training</h4>                      
+                          </td>
+                        </tr>
+                         <tr>
+                          <td colspan="2">
+                            <table class="table">
+                              <tr>
+                                <td>TOT</td>
+                                <td ><p style="margin-left:10px;">Training of Trainers Course, Leo Club of Kathmandu,
+          Himalayas Patan, Nepal</p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td>Computer</td>
+                                <td ><p style="margin-left:10px;">MS Office Package, NTC, Jamal, Kathmandu</p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td>Language</td>
+                                <td ><p style="margin-left:10px;">One Year Chinese Language, Wuhan University, China</p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td>Training</td>
+                                <td ><p style="margin-left:10px;">NMA Basic Mountaineering Course, Manang, Nepal</p>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <tr>
+                          <td colspan="2">
+                            <hr />
+                          </td>
+                        </tr>
+                        <tr>
+                          <td colspan="2">
+                            <h4>Experience</h4>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td colspan="2">
+                            <table class="table">
+                              <tr>
+                                <td>1999</td>
+                                <td ><p style="margin-left:10px;">Summit Island Peak, Khumbu, Nepal</p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td>2000</td>
+                                <td ><p style="margin-left:10px;">Reached 8822m, Mount Everest, South Side, Nepal</p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td>2001</td>
+                                <td ><p style="margin-left:10px;">Summit Mt. Everest, 8848m, North Side, China</p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td>2003</td>
+                                <td ><p style="margin-left:10px;">IMF International Adventure Programme, Uttaranchal,India</p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td>2011</td>
+                                <td ><p style="margin-left:10px;">Summit Mt. Amadablam 6812m, Khumbu, Nepal</p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td>2012</td>
+                                <td ><p style="margin-left:10px;">Reached 7000m Kamet, Indo-Nepal Kamet Expedition, India</p>
+                                </td>
+                              </tr>
+                            </table>
+
+                            </td>
+                        </tr>
+                      </table>
 
 
 
-            </div>
 
-            <div class="box-right clearfix">
-              <img src="<?php echo base_url(); ?>media/images/urlsa.png">
-            </div>
-          </div>
-        </div>
-  
+                      <tr>
+                          <td colspan="2">
+                            
+                          </td>
+                        </tr>
+                    </div>
 
-
-          <!--
-  <div id="resume" class="clearfix">
-    <div class="box-center clearfix">
-      
-      <div class="shadow box-txt-years" id="scroll">
-        <div id="year1" class="yearsize">
-          <h4>UI DESIGNER</h4>
-          <h5><i class="icon-angle-right"></i> Rovio Entertainment</h5>
-          <p>Aliquam erat volutpat. Maecenas non tortor nulla, non malesuada velit. Nullam felis tellus, tristique nec egestas in, luctus sed diam. Suspendisse potenti. </p>
-            <p>Aliquam erat volutpat. Maecenas non tortor nulla, non malesuada velit. Nullam felis tellus, tristique nec egestas in, luctus sed diam. Suspendisse potenti. </p>  <p>Aliquam erat volutpat. Maecenas non tortor nulla, non malesuada velit. Nullam felis tellus, tristique nec egestas in, luctus sed diam. Suspendisse potenti. </p>  <p>Aliquam erat volutpat. Maecenas non tortor nulla, non malesuada velit. Nullam felis tellus, tristique nec egestas in, luctus sed diam. Suspendisse potenti. </p>  <p>Aliquam erat volutpat. Maecenas non tortor nulla, non malesuada velit. Nullam felis tellus, tristique nec egestas in, luctus sed diam. Suspendisse potenti. </p>  <p>Aliquam erat volutpat. Maecenas non tortor nulla, non malesuada velit. Nullam felis tellus, tristique nec egestas in, luctus sed diam. Suspendisse potenti. </p>  <p>Aliquam erat volutpat. Maecenas non tortor nulla, non malesuada velit. Nullam felis tellus, tristique nec egestas in, luctus sed diam. Suspendisse potenti.   <p>Aliquam erat volutpat. Maecenas non tortor nulla, non malesuada velit. Nullam felis tellus, tristique nec egestas in, luctus sed diam. Suspendisse potenti. </p>  <p>Aliquam erat volutpat. Maecenas non tortor nulla, non malesuada velit. Nullam felis tellus, tristique nec egestas in, luctus sed diam. Suspendisse potenti. </p>  <p>Aliquam erat volutpat. Maecenas non tortor nulla, non malesuada velit. Nullam felis tellus, tristique nec egestas in, luctus sed diam. Suspendisse potenti. </p>  <p>Aliquam erat volutpat. Maecenas non tortor nulla, non malesuada velit. Nullam felis tellus, tristique nec egestas in, luctus sed diam. Suspendisse potenti. </p>  <p>Aliquam erat volutpat. Maecenas non tortor nulla, non malesuada velit. Nullam felis tellus, tristique nec egestas in, luctus sed diam. Suspendisse potenti. </p>  <p>Aliquam erat volutpat. Maecenas non tortor nulla, non malesuada velit. Nullam felis tellus, tristique nec egestas in, luctus sed diam. Suspendisse potenti. </p>  <p>Aliquam erat volutpat. Maecenas non tortor nulla, non malesuada velit. Nullam felis tellus, tristique nec egestas in, luctus sed diam. Suspendisse potenti. </p>  <p>Aliquam erat volutpat. Maecenas non tortor nulla, non malesuada velit. Nullam felis tellus, tristique nec egestas in, luctus sed diam. Suspendisse potenti. </p>  <p>Aliquam erat volutpat. Maecenas non tortor nulla, non malesuada velit. Nullam felis tellus, tristique nec egestas in, luctus sed diam. Suspendisse potenti. </p>  <p>Aliquam erat volutpat. Maecenas non tortor nulla, non malesuada velit. Nullam felis tellus, tristique nec egestas in, luctus sed diam. Suspendisse potenti. </p>  <p>Aliquam erat volutpat. Maecenas non tortor nulla, non malesuada velit. Nullam felis tellus, tristique nec egestas in, luctus sed diam. Suspendisse potenti. </p>  <p>Aliquam erat volutpat. Maecenas non tortor nulla, non malesuada velit. Nullam felis tellus, tristique nec egestas in, luctus sed diam. Suspendisse potenti. </p>  <p>Aliquam erat volutpat. Maecenas non tortor nulla, non malesuada velit. Nullam felis tellus, tristique nec egestas in, luctus sed diam. Suspendisse potenti. </p></p>
-          <a href="#">Link style</a>
-          <div class="note"> <span>FRONT DEV</span><span>FRAMEWORK</span><span>MARKETING</span> </div>
-          <hr/>
-          <h4>SENIOR DEVELOPER</h4>
-          <h5><i class="icon-angle-right"></i> Google, Inc.</h5>
-          <p>Consectetur adipiscing elit. Nulla consectetur libero consectetur quam consequat nec tincidunt massa feugiat. Donec egestas mi turpis. Fusce adipiscing dui eu metus gravida vel facilisis ligula iaculis. Cras a rhoncus massa. Donec sed purus eget nunc placerat consequat.</p>
-          <hr/>
-        </div>
-        <div id="year2" class="yearsize">
-          <h4>SEO SPECIALIST</h4>
-          <h5><i class="icon-angle-right"></i> Creative Agency</h5>
-          <p>Aliquam erat volutpat. Maecenas non tortor nulla, non malesuada velit. Nullam felis tellus, tristique nec egestas in, luctus sed diam. Suspendisse potenti. </p>
-          <p>Consectetur adipiscing elit. Nulla consectetur libero consectetur quam consequat nec tincidunt massa feugiat. Donec egestas mi turpis. Fusce adipiscing dui eu metus gravida vel facilisis ligula iaculis. Cras a rhoncus massa. Donec sed purus eget nunc placerat consequat.</p>
-          <a href="#">Link style</a>
-          <div class="note"> <span>CMS</span><span>DDBB</span> </div>
-          <hr/>
-        </div>
-        <div id="year3" class="yearsize">
-          <h4>SOFTWARE ENGINEER</h4>
-          <h5><i class="icon-angle-right"></i> Facebook, Inc.</h5>
-          <p>Aliquam erat volutpat. Maecenas non tortor nulla, non malesuada velit. Nullam felis tellus, tristique nec egestas in, luctus sed diam. Suspendisse potenti. </p>
-          <p>Consectetur adipiscing elit. Nulla consectetur libero consectetur quam consequat nec tincidunt massa feugiat. Donec egestas mi turpis. Fusce adipiscing dui eu metus gravida vel facilisis ligula iaculis. Cras a rhoncus massa. Donec sed purus eget nunc placerat consequat.</p>
-          <a href="#">Link style</a> </div>
-        <div id="year4" class="yearsize">
-          <h4>INFORMATION SYSTEMS ENGINEER</h4>
-          <h5><i class="icon-angle-right"></i> University of Cambridge</h5>
-          <p>Aliquam erat volutpat. Maecenas non tortor nulla, non malesuada velit. Nullam felis tellus, tristique nec egestas in, luctus sed diam. Suspendisse potenti. </p>
-          <p>Consectetur adipiscing elit. Nulla consectetur libero consectetur quam consequat nec tincidunt massa feugiat. Donec egestas mi turpis. Fusce adipiscing dui eu metus gravida vel facilisis ligula iaculis. Cras a rhoncus massa. Donec sed purus eget nunc placerat consequat.</p>
-          <a href="#">Link style</a> </div>
-      </div>
-    </div>
-    <div class="box-right clearfix">
-      
-     vdfvdfv
-    </div>
-  </div>
-</div>
+                    <div class="box-right clearfix">
+                      <img src="<?php echo base_url();?>media/images/urlsa.png">
+                    </div>
+                  </div>
+                </div>
 
 
   <!-- /Content --> 
